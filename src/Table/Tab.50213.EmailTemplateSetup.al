@@ -12,7 +12,6 @@ table 50213 "Email Template Setup"
         }
         field(21; Description; Text[100])
         {
-            Caption = 'Description';
             DataClassification = CustomerContent;
         }
         field(22; Type; Option)
